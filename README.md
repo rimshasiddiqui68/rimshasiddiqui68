@@ -1,16 +1,16 @@
-## Hi there 👋
+### 👋 Hi there! I’m Rimsha Siddiqui  
+💻 **Aspiring Data Analyst** | **Learning Data Science**  
 
-<!--
-**rimshasiddiqui68/rimshasiddiqui68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌟 I’ve completed my Data Analyst certification and am currently expanding my knowledge in Data Science.  
+- 📊 Skilled in **Data Analysis**, **Data Visualization**, and **Data Modeling**.  
+- 🔍 Passionate about transforming data into meaningful insights using **Power BI**, **SQL**, and **Python**.  
+- 📈 Currently exploring **Machine Learning**, **Predictive Modeling**, and advanced data analysis techniques.  
+- 🛠️ Tools & Technologies I use:  
+    - **Databases & Tools**: **MSSQL Server**, **Power BI**, **Python**, **Excel**, **R**  
+    - **Libraries**: **Pandas**, **Numpy**  
+    - **IDE/Tools**: **VS Code**, **Jupyter**, **Anaconda**, **Google Collaboratory**  
+- 🎯 Always eager to collaborate on data-driven projects and contribute to open-source initiatives.  
+- 📁 You can check out some of my work and projects on my **GitHub profile**.  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Let’s connect!** You can reach me at **rimshasiddique68@gmail.com**  
+🗯️ You can follow me on LinkedIn: **https://www.linkedin.com/in/rimsha-siddiqui-501618268/**
