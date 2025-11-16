@@ -1,4 +1,4 @@
-<h1 align = "center"><img src="https://github.com/suhasmaddali/GIF-files/blob/main/animat-campfire-color.gif" width="75" />Hi there! I'm Rimsha Siddiqui 👋  💻 **Aspiring Data Analyst**</h1>
+<h1 align = "center"><img src="https://github.com/suhasmaddali/GIF-files/blob/main/animat-campfire-color.gif" width="75" />Hi there! I'm Rimsha Siddiqui 👋  💻 An Aspiring Data Analyst </h1>
 <h2 align="center">“The Goal is to turn Data into Insights.”  
 Let’s turn data into impact, together.</h2>
 <img align="Center" alt="Coding" width="1000" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
